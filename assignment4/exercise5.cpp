@@ -16,8 +16,10 @@ int main() {
     cin >> b;
 
     cout << "Enter third number (or press Enter to use 2): ";
+    cin.ignore(); // to ignore the newline character left by cin
     if (cin.peek() == '\n') {
         c = 2;
+        cin.ignore(); // to clear the newline character from the buffer
     } else {
         cin >> c;
     }
