@@ -1,3 +1,5 @@
+// Program to perform a countdown from a number to 0, decrementing by 2
+
 #include <iostream>
 using namespace std;
 

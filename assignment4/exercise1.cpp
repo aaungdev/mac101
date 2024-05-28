@@ -1,3 +1,5 @@
+// Program to print names and ages of 10 students and calculate the sum and average age
+
 #include <iostream>
 using namespace std;
 

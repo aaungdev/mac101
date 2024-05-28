@@ -1,3 +1,5 @@
+// Program to print square, square root, and factorial of a number
+
 #include <iostream>
 using namespace std;
 

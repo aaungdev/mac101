@@ -1,3 +1,5 @@
+// Program to design a simple arithmetic calculator
+
 #include <iostream>
 using namespace std;
 

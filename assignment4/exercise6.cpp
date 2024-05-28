@@ -1,3 +1,5 @@
+// Program to check if a number is even or odd and print a message
+
 #include <iostream>
 using namespace std;
 

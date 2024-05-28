@@ -1,3 +1,5 @@
+// Program to return the sum and product of three numbers, with an optional third parameter
+
 #include <iostream>
 using namespace std;
 
