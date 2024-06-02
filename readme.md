@@ -1,4 +1,4 @@
-# MAC101 - C++ Tutorial and Practice
+## MAC101 - C++ Tutorial and Practice
 
 This repository contains assignments and practice exercises for my MAC101 college course. The topics covered include:
 
@@ -6,6 +6,7 @@ This repository contains assignments and practice exercises for my MAC101 colleg
 - Control Structures: Conditions, Switch, Loops (While, For), Break/Continue
 - Data Structures: Arrays, Structures, Enums
 - Advanced Topics: References, Pointers, Functions (Parameters, Overloading, Recursion)
+
 
 ---
 
