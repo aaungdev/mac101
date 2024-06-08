@@ -1,4 +1,4 @@
-## MAC101 - C++ Tutorial and Practice
+## MAC101 - C++ Practice Exercises
 
 This repository contains assignments and practice exercises for my MAC101 college course. The topics covered include:
 
